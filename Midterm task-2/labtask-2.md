@@ -1,4 +1,6 @@
-Step-by-Step Process
+
+
+## Step-by-Step Process
 ## Step 1: Data Cleaning
 
 Load the raw dataset into Power Query
@@ -10,14 +12,14 @@ Load the raw dataset into Power Query
 - Convert data types for consistency
 
 
-##Step 2: Data Transformation
+## Step 2: Data Transformation
 - Split and merge columns as needed
 - Extract relevant data using filters
 - Apply conditional transformations
 - Create new calculated columns
 - Standardize date and numeric formats
 
-##Step 3: Data Normalization
+## Step 3: Data Normalization
 - Identify and organize data into structured tables
 - Split tables to reduce redundancy
 - Establish relationships between tables
