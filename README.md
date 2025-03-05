@@ -9,6 +9,6 @@ Colloge: Currently Studying at City College of Angeles
 High School: Graduated at San Mariano National High School
 
 ### My Projects:
-Midterm Lab Task 2: 
+Midterm Lab Task 1: [Data Cleaning and Preparation using Excel] (Midterm task-1/labtask-1.md)
 
 Midterm Lab Task 2: 
