@@ -1,11 +1,11 @@
 # EDM-PORTFOLIO
--
-
-###About me:
 
 
+### About me:
 
-###Education:
 
 
-###My Projects:
+### Education:
+
+
+### My Projects:
