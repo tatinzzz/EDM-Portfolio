@@ -1,11 +1,8 @@
 # EDM-PORTFOLIO
-
-
+This portfolio ducument the activity we do in EDM
 ### About me:
-
-
+Hi! I'm Justin Francia, currenty studying at CCA from BSIS-I102.
 
 ### Education:
-
-
-### My Projects:
+Colloge: Currently Studying at City College of Angeles
+High School: Graduated at San Mariano National High School
