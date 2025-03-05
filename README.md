@@ -1,5 +1,5 @@
 # EDM-PORTFOLIO
-This portfolio ducument the activity we do in EDM
+This portfolio ducument the activity in EDM
 ### About me:
 Hi! I'm Justin Francia, currenty studying at CCA from BSIS-I102.
 
