@@ -1,9 +1,10 @@
 Step-by-Step Process
 ## Step 1: Data Cleaning
 
--Load the raw dataset into Power Query
--Adjust column width and format
--Trim spaces and clean text values
+Load the raw dataset into Power Query
+
+Adjust column width and format
+- Trim spaces and clean text values
 -Remove null values and handle missing data
 -Remove duplicate records
 -Convert data types for consistency
