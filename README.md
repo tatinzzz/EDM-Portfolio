@@ -12,6 +12,6 @@ Elementary: Maugat Elementary School
 
 
 ### My Projects:
-Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
+Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask1/task1.md)
 
-Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask1/task1.md)
+Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
