@@ -16,4 +16,5 @@ Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask1/tas
 
 Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
 
-[Midterm_Lab_Task3:](https://github.com/user-attachments/files/19257435/Midterm_Lab_Task3.xlsx)
+
+Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MidtermLabTask3.md)
