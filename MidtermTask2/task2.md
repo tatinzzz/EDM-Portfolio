@@ -115,17 +115,21 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ## Here's the screenshots of Advanced Editor.
 ![Advanced Editor](https://github.com/user-attachments/assets/3c135208-da23-4ad6-9b4a-87ee403c0953)
 ## Here's the screenshot of Sal By Role type.
-![Sal_By_Role_Type_dup ](https://github.com/user-attachments/assets/cfb20c40-88f7-4600-8593-e146ad92d11c)
+![salbyrole](https://github.com/user-attachments/assets/d1da5a5f-02f9-4dda-927f-a8ae96163577)
 ## Here's the screenshot of Sal By Size.
-![Sal_By_Size_ref](https://github.com/user-attachments/assets/2538e76d-a7d5-4ec2-afa7-a537a5c30ed7)
+![sabyrolesize](https://github.com/user-attachments/assets/acd13c16-8729-41b0-8c70-9fe50694bcbc)
+
 ## Here's the screenshot of the States.
-![States](https://github.com/user-attachments/assets/3c274f1b-0fd1-4263-a12e-0f84c79e9a1d)
+![states](https://github.com/user-attachments/assets/96867dff-802e-468d-9074-dfe4b9e68d73)
+
 ## Here's the screenshot of Sal By State.
-![Sal_By_State_ref](https://github.com/user-attachments/assets/76254226-26f4-4b5e-ab14-f0ef78c22733)
-## Here's the screenshot of Sal By Size Role. 
-![Sal_By_Size_Role_dup](https://github.com/user-attachments/assets/b8c7fd9e-99d2-44b0-ad49-b7c71ce9eebd)
+![salbystates](https://github.com/user-attachments/assets/e96326b6-f94c-4578-bfbd-24151d66d88c)
+
+
 ## Here's the screenshot of the Query Dependencies.
-![Query_dependencies](https://github.com/user-attachments/assets/e8e4f428-a1e8-41c4-a440-a601ebfe08d7)
+![Query Dependencies](https://github.com/user-attachments/assets/2e9a9a30-b400-41fc-bce2-ee24fdfa8ebe)
+
+
 
 
 
