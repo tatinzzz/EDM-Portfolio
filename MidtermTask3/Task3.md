@@ -39,7 +39,15 @@ Company Size ![Company size](https://github.com/user-attachments/assets/ad0802fd
 
 States ![states](https://github.com/user-attachments/assets/9fcb6ad4-315b-407f-a3fa-ce4fd24221be)
 
+Role By Sector ![rolebysector](https://github.com/user-attachments/assets/209c5e4a-08fc-41b7-aaa7-e03de0945ed4)
+
+Sal By Sector ![salbysector](https://github.com/user-attachments/assets/06be3e12-58e0-42cc-bc9b-27c5e456b463)
+
+# Screenshots on Dashboard
 
 
+First ![first](https://github.com/user-attachments/assets/31302894-ddab-4d92-8ecd-4fa0590f9379)
 
+Second ![second](https://github.com/user-attachments/assets/bb6e4e57-37f5-405d-9e71-64a6051b0af4)
 
+Map ![map](https://github.com/user-attachments/assets/12175aae-10ec-4207-a7f0-a242d00b67e3)
