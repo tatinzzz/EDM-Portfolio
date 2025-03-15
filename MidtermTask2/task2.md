@@ -1,4 +1,4 @@
-# [Midterm_Lab_Task2](https://github.com/user-attachments/files/19145615/Midterm_Lab_Task2.xlsx) – Data Cleaning and Transformation Using Power Query Editor
+# [Midterm-Lab_Task2](https://github.com/user-attachments/files/19259656/Midterm-Lab_Task2.xlsx) – Data Cleaning and Transformation Using Power Query Editor
 
 
 This portfolio demonstrates the process of data cleaning and preparation using Power Query. The dataset consists of multiple related tables, where cleaning techniques are applied to improve data quality and consistency before analysis.
