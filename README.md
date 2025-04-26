@@ -11,10 +11,18 @@ High School: Graduated at San Mariano National High School
 Elementary: Maugat Elementary School
 
 
-### My Projects:
+### My Projects
+
+
+## Midterm Projects:
+
 Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask1/task1.md)
 
 Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
 
-
 Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MidtermTask3/Task3.md)
+
+
+## Finals Projects:
+
+Final Lab Task 1: [Multi Level Company ](Final-Task-1/README.md)
