@@ -16,13 +16,13 @@ Elementary: Maugat Elementary School
 
 # Midterm Projects:
 
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask1/task1.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
-- Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MidtermTask3/Task3.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://tatinzzz.github.io/Midterm-Task-1/)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](https://tatinzzz.github.io/Midterm-Task-2/)
+- Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://tatinzzz.github.io/Midterm-Task-3/)
 
 # Finals Projects:
 
 - Final Lab Task 1: [Multi Level Company ](https://tatinzzz.github.io/Final-Task-1/)
-- Final Task 2:Transform ER into Relational tables
-- Final Task 3:Table Manipulation
-- Final Task 3-1:Using MYSQL CLAUSE
+- Final Task 2:[Transform ER into Relational tables](https://tatinzzz.github.io/Final-Task-2/)
+- Final Task 3:[Table Manipulation](https://tatinzzz.github.io/Final-Task-3/)
+- Final Task 3-1:[sing MYSQL CLAUSE]()
