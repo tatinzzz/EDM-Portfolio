@@ -11,18 +11,18 @@ High School: Graduated at San Mariano National High School
 Elementary: Maugat Elementary School
 
 
-### My Projects
+# My Projects
 
 
-## Midterm Projects:
+# Midterm Projects:
 
-Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask1/task1.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](MidtermTask1/task1.md)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
+- Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MidtermTask3/Task3.md)
 
-Midterm Lab Task 2: [Data Cleaning and Preparation using Excel](MidtermTask2/task2.md)
+# Finals Projects:
 
-Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MidtermTask3/Task3.md)
-
-
-## Finals Projects:
-
-Final Lab Task 1: [Multi Level Company ](https://tatinzzz.github.io/Final-Task-1/)
+- Final Lab Task 1: [Multi Level Company ](https://tatinzzz.github.io/Final-Task-1/)
+- Final Task 2:Transform ER into Relational tables
+- Final Task 3:Table Manipulation
+- Final Task 3-1:Using MYSQL CLAUSE
