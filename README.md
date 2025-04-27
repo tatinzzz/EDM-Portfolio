@@ -1,6 +1,6 @@
 # EDM-PORTFOLIO
 
-![image](https://github.com/user-attachments/assets/b3f8c2a5-c216-4862-a54a-bdfd01337ed9)
+
 
 This portfolio ducument the activity in EDM
 ### About me:
