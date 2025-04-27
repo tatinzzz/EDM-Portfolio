@@ -27,4 +27,4 @@ Elementary: Maugat Elementary School
 - Final Lab Task 1: [Multi Level Company ](https://tatinzzz.github.io/Final-Task-1/)
 - Final Task 2:[Transform ER into Relational tables](https://tatinzzz.github.io/Final-Task-2/)
 - Final Task 3:[Table Manipulation](https://tatinzzz.github.io/Final-Task-3/)
-- Final Task 3-1:[sing MYSQL CLAUSE]()
+- Final Task 3-1:[Using MYSQL CLAUSE](https://tatinzzz.github.io/Final-Task-3.1/)
