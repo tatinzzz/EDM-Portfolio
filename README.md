@@ -30,4 +30,4 @@ Hi! I'm Justin Francia, currently student at the City College of Angeles (CCA), 
 - Finals Lab Task 1: [Multi Level Company ](https://tatinzzz.github.io/Final-Task-1/)
 - Finals Lab Task 2:[Transform ER into Relational tables](https://tatinzzz.github.io/Final-Task-2/)
 - Finals Lab Task 3:[Table Manipulation](https://tatinzzz.github.io/Final-Task-3/)
-- Finals Lab Task 3-1:[Using MYSQL CLAUSE](https://tatinzzz.github.io/Final-Task-3.1/)
+- Finals Lab Task 3.1:[Using MYSQL CLAUSE](https://tatinzzz.github.io/Final-Task-3.1/)
