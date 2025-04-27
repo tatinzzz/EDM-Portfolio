@@ -25,4 +25,4 @@ Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MidtermTask3/Task3.md)
 
 ## Finals Projects:
 
-Final Lab Task 1: [Multi Level Company ](Final-Task-1/README.md)
+Final Lab Task 1: [Multi Level Company ](Final-Task-3/README.md)
