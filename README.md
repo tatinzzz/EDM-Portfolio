@@ -16,8 +16,6 @@ Hi! I'm Justin Francia, currently student at the City College of Angeles (CCA), 
 
 # My Projects
 
-# [EDM-PORTFOLIO](https://tatinzzz.github.io/EDM-Portfolio/)
-
 
 # Midterms Projects
 
