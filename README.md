@@ -13,7 +13,7 @@ Elementary: Maugat Elementary School
 
 # My Projects
 
-
+[Porfolio](https://tatinzzz.github.io/EDM-Portfolio/)
 # Midterm Projects:
 
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://tatinzzz.github.io/Midterm-Task-1/)
