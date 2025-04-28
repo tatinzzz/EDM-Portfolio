@@ -1,10 +1,10 @@
-# EDM-PORTFOLIO
+# EDM-PORTFOLIO 
 
 
 
 This portfolio ducument the activity in EDM
 ### About me:
-Hi! I'm Justin Francia, currently student at the City College of Angeles (CCA), pursuing a Bachelor of Science in Information Systems (BSIS-I102). I’m passionate about coding, problem-solving, and building projects that leverage technology to improve systems and processes.
+Hi! I'm **Justin Francia**, currently student at the **City College of Angeles (CCA)**, pursuing a **Bachelor of Science in Information Systems (BSIS**) (Section-I102). I’m passionate about coding, problem-solving, and building projects that leverage technology to improve systems and processes.
 
 ### Education:
 - Colloge: Currently Studying at City College of Angeles
