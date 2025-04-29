@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EDM PORTFOLIO OF JUSTIN FRANCIA</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #0a0a0a;
+      color: #f5f5f5;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Particle Background */
+    #particles-js {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+
+    header, section, footer {
+      padding: 60px 20px;
+      text-align: center;
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeInUp 1s forwards;
+    }
+
+    header { animation-delay: 0.2s; }
+    #about { animation-delay: 0.5s; }
+    #projects { animation-delay: 0.6s; }
+    #contact { animation-delay: 0.8s; }
+    footer { animation-delay: 1s; }
+
+    h1 {
+      font-size: 4.5em;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 700;
+      margin-bottom: 10px;
+      color: #00ff99;
+      text-shadow: 0px 0px 10px rgba(0, 255, 153, 0.7);
+    }
+    
+    h2 {
+      font-size: 2.5em;
+      font-family: 'Orbitron', sans-serif;
+      margin-bottom: 20px;
+    }
+
+    .typing {
+      font-size: 1.5em;
+      color: #00ff99;
+      height: 30px;
+      margin-bottom: 30px;
+      font-family: 'Roboto Mono', monospace;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 30px;
+      background: #00ff99;
+      color: #000;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 1em;
+      font-family: 'Poppins', sans-serif;
+      box-shadow: 0 0 10px #00ff99;
+      transition: all 0.3s ease;
+    }
+
+    .btn:hover {
+      background: #00cc7a;
+      box-shadow: 0 0 15px #00cc7a;
+    }
+
+    footer {
+      font-size: 0.8em;
+      color: #777;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li a {
+      color: #00ff99;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    ul li a:hover {
+      text-decoration: underline;
+      color: #00cc7a;
+    }
+
+    section {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 15px;
+      margin: 20px auto;
+      padding: 40px;
+      width: 90%;
+      max-width: 800px;
+      box-shadow: 0 0 20px rgba(0, 255, 153, 0.1);
+    }
+
+    header {
+      position: relative;
+      background: linear-gradient(145deg, #0f0f0f, #1a1a1a);
+      border-radius: 10px;
+      padding: 80px 20px;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .icon {
+      font-size: 1.8em;
+      margin-right: 10px;
+    }
+
+    #projects, #about, #contact {
+      position: relative;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 3em; }
+      .typing { font-size: 1.2em; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Particle Background -->
+  <div id="particles-js"></div>
+
+  <header>
+    <h1>EDM PORTFOLIO OF JUSTIN FRANCIA</h1>
+    <div class="typing" id="typing"></div>
+    <a href="#contact" class="btn">Let’s Collaborate!</a>
+  </header>
+
+  <section id="about">
+    <h2><span class="icon">🎓</span>About Me</h2>
+    <p>Hello, I’m <strong>Justin Francia</strong> — an EDM artist with a passion for creating beats that move people. I’m currently a student at <strong>City College of Angeles (CCA)</strong>, working towards a <strong>Bachelor of Science in Information Systems (BSIS)</strong> (Section-I102). Music and tech fuel my creativity, and I blend them seamlessly to create experiences that captivate and electrify.</p>
+    <h3>My Journey:</h3>
+    <ul>
+      <li><strong>College:</strong> City College of Angeles – Information Systems Student</li>
+      <li><strong>High School:</strong> San Mariano National High School</li>
+      <li><strong>Elementary:</strong> Maugat Elementary School</li>
+    </ul>
+    <p>I’m on a mission to take the music world by storm, combining my love for sound design with cutting-edge technology to build the future of music. EDM isn’t just my genre – it’s my way of life.</p>
+  </section>
+
+  <section id="projects">
+    <h2><span class="icon">💻</span>My Projects</h2>
+
+    <h3>Midterm Projects: The Foundation of My Work</h3>
+    <ul>
+      <li><a href="https://tatinzzz.github.io/Midterm-Task-1/" target="_blank">Midterm Task 1: Data Cleaning & Preparation in Excel</a></li>
+      <li><a href="https://tatinzzz.github.io/Midterm-Task-2/" target="_blank">Midterm Task 2: Data Analysis with Excel</a></li>
+      <li><a href="https://tatinzzz.github.io/Midterm-Task-3/" target="_blank">Midterm Task 3: Creating Interactive Dashboards</a></li>
+    </ul>
+
+    <h3>Finals Projects: Pushing the Limits</h3>
+    <ul>
+      <li><a href="https://tatinzzz.github.io/Final-Task-1/" target="_blank">Finals Task 1: Building a Multi-Level Company System</a></li>
+      <li><a href="https://tatinzzz.github.io/Final-Task-2/" target="_blank">Finals Task 2: Translating ER Models into Relational Tables</a></li>
+      <li><a href="https://tatinzzz.github.io/Final-Task-3/" target="_blank">Finals Task 3: Advanced Data Manipulation</a></li>
+      <li><a href="https://tatinzzz.github.io/Final-Task-3.1/" target="_blank">Finals Task 3.1: Mastering MySQL Queries</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2><span class="icon">📧</span>Contact</h2>
+    <p>Let’s work together! I’m open to collaborations, gigs, remixes, and more.</p>
+    <a href="mailto:your-email@example.com" class="btn">Get in Touch</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Justin Francia. All rights reserved.</p>
+  </footer>
+
+  <!-- Load particles.js library -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+  <script>
+    // Initialize particles.js
+    particlesJS('particles-js', {
+      "particles": {
+        "number": {
+          "value": 100,
+          "density": {
+            "enable": true,
+            "value_area": 800
+          }
+        },
+        "color": {
+          "value": "#00ff99"
+        },
+        "shape": {
+          "type": "circle",
+          "stroke": {
+            "width": 0,
+            "color": "#000000"
+          },
+          "polygon": {
+            "nb_sides": 5
+          },
+          "image": {
+            "src": "",
+            "width": 100,
+            "height": 100
+          }
+        },
+        "opacity": {
+          "value": 0.5,
+          "random": false,
+          "anim": {
+            "enable": true,
+            "speed": 1,
+            "opacity_min": 0.1,
+            "sync": false
+          }
+        },
+        "size": {
+          "value": 3,
+          "random": true,
+          "anim": {
+            "enable": true,
+            "speed": 2,
+            "size_min": 0.1,
+            "sync": false
+          }
+        },
+        "line_linked": {
+          "enable": true,
+          "distance": 150,
+          "color": "#00ff99",
+          "opacity": 0.4,
+          "width": 1
+        },
+        "move": {
+          "enable": true,
+          "speed": 3,
+          "direction": "none",
+          "random": false,
+          "straight": false,
+          "out_mode": "out",
+          "bounce": false,
+          "attract": {
+            "enable": false,
+            "rotateX": 600,
+            "rotateY": 1200
+          }
+        }
+      },
+      "interactivity": {
+        "detect_on": "canvas",
+        "events": {
+          "onhover": {
+            "enable": true,
+            "mode": "repulse"
+          },
+          "onclick": {
+            "enable": true,
+            "mode": "push"
+          }
+        }
+      }
+    });
+
+    const texts = ["EDM Artist", "Producer", "Dreamer"];
+    let count = 0;
+    let index = 0;
+    let currentText = '';
+    let letter = '';
+    (function type() {
+      if (count === texts.length) count = 0;
+      currentText = texts[count];
+      letter = currentText.slice(0, ++index);
+      document.getElementById('typing').textContent = letter;
+      if (letter.length === currentText.length) {
+        count++;
+        index = 0;
+        setTimeout(type, 1500);
+      } else {
+        setTimeout(type, 120);
+      }
+    })();
+  </script>
+
+</body>
+</html>
