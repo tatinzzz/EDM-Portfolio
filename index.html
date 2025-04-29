@@ -508,31 +508,28 @@
             }
             
             // Create magic circles (like gates) with warm colors
-            for (let i = 0; i < 10; i++) {
+                        // Create magic circles (like gates)
+            for (let i = 0; i < 3; i++) {
                 const circle = document.createElement('div');
                 circle.style.position = 'absolute';
-                const circleSize = anime.random(80, 250);
-                circle.style.width = circleSize + 'px';
-                circle.style.height = circleSize + 'px';
-                circle.style.border = '2px solid ' + colors[i % colors.length];
+                circle.style.border = '2px dashed #d28c5a';
                 circle.style.borderRadius = '50%';
-                circle.style.opacity = '0.15';
-                circle.style.pointerEvents = 'none';
-                
-                // Position circles
-                circle.style.left = Math.random() * 80 + 10 + 'vw';
-                circle.style.top = Math.random() * 80 + 10 + 'vh';
-                
+                const size = 200 + Math.random() * 150;
+                circle.style.width = size + 'px';
+                circle.style.height = size + 'px';
+                circle.style.left = Math.random() * (window.innerWidth - size) + 'px';
+                circle.style.top = Math.random() * (window.innerHeight - size) + 'px';
+                circle.style.opacity = '0.3';
                 container.appendChild(circle);
-                
-                // Animate circles with pulsing effect
+
                 anime({
                     targets: circle,
-                    scale: [anime.random(0.5, 1), anime.random(1.5, 3)],
-                    rotate: 360,
-                    duration: anime.random(15000, 30000),
+                    rotate: '360deg',
+                    duration: 20000 + Math.random() * 10000,
                     easing: 'linear',
                     loop: true
+            
+
                 });
             }
             
