@@ -18,7 +18,6 @@
       position: relative;
     }
 
-    /* Particle Background */
     #particles-js {
       position: absolute;
       top: 0;
@@ -99,11 +98,25 @@
       color: #00ff99;
       text-decoration: none;
       font-family: 'Poppins', sans-serif;
+      transition: all 0.3s ease;
     }
 
     ul li a:hover {
-      text-decoration: underline;
-      color: #00cc7a;
+      color: #ffffff;
+      text-shadow: 0 0 5px #00ff99, 0 0 10px #00ff99, 0 0 20px #00ff99;
+    }
+
+    ul li a:focus,
+    ul li a:active {
+      color: #ffffff;
+      text-shadow: 0 0 5px #00ff99, 0 0 10px #00ff99;
+    }
+
+    a.clicked {
+      background-color: #00ff99;
+      color: #000;
+      box-shadow: 0 0 15px #00ff99;
+      border-radius: 5px;
     }
 
     section {
@@ -158,14 +171,13 @@
 
   <section id="about">
     <h2><span class="icon">🎓</span>About Me</h2>
-    <p>Hello, I’m <strong>Justin Francia</strong> — an EDM artist with a passion for creating beats that move people. I’m currently a student at <strong>City College of Angeles (CCA)</strong>, working towards a <strong>Bachelor of Science in Information Systems (BSIS)</strong> (Section-I102).  I’m passionate about coding, problem-solving, and building projects that leverage technology to improve systems and processes.
+    <p>Hello, I’m <strong>Justin Francia</strong> — an EDM artist with a passion for creating beats that move people. I’m currently a student at <strong>City College of Angeles (CCA)</strong>, working towards a <strong>Bachelor of Science in Information Systems (BSIS)</strong> (Section-I102). I’m passionate about coding, problem-solving, and building projects that leverage technology to improve systems and processes.</p>
     <h3>My Journey:</h3>
     <ul>
       <li><strong>College:</strong> City College of Angeles – Information Systems Student</li>
       <li><strong>High School:</strong> San Mariano National High School</li>
       <li><strong>Elementary:</strong> Maugat Elementary School</li>
     </ul>
-    
   </section>
 
   <section id="projects">
@@ -187,62 +199,28 @@
     </ul>
   </section>
 
- 
   <footer>
     <p>© 2025 Justin Francia. All rights reserved.</p>
   </footer>
 
-  <!-- Load particles.js library -->
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-
   <script>
-    // Initialize particles.js
     particlesJS('particles-js', {
       "particles": {
         "number": {
           "value": 100,
-          "density": {
-            "enable": true,
-            "value_area": 800
-          }
+          "density": { "enable": true, "value_area": 800 }
         },
-        "color": {
-          "value": "#00ff99"
-        },
-        "shape": {
-          "type": "circle",
-          "stroke": {
-            "width": 0,
-            "color": "#000000"
-          },
-          "polygon": {
-            "nb_sides": 5
-          },
-          "image": {
-            "src": "",
-            "width": 100,
-            "height": 100
-          }
-        },
+        "color": { "value": "#00ff99" },
+        "shape": { "type": "circle" },
         "opacity": {
           "value": 0.5,
-          "random": false,
-          "anim": {
-            "enable": true,
-            "speed": 1,
-            "opacity_min": 0.1,
-            "sync": false
-          }
+          "anim": { "enable": true, "speed": 1, "opacity_min": 0.1 }
         },
         "size": {
           "value": 3,
           "random": true,
-          "anim": {
-            "enable": true,
-            "speed": 2,
-            "size_min": 0.1,
-            "sync": false
-          }
+          "anim": { "enable": true, "speed": 2, "size_min": 0.1 }
         },
         "line_linked": {
           "enable": true,
@@ -254,29 +232,13 @@
         "move": {
           "enable": true,
           "speed": 3,
-          "direction": "none",
-          "random": false,
-          "straight": false,
-          "out_mode": "out",
-          "bounce": false,
-          "attract": {
-            "enable": false,
-            "rotateX": 600,
-            "rotateY": 1200
-          }
+          "out_mode": "out"
         }
       },
       "interactivity": {
-        "detect_on": "canvas",
         "events": {
-          "onhover": {
-            "enable": true,
-            "mode": "repulse"
-          },
-          "onclick": {
-            "enable": true,
-            "mode": "push"
-          }
+          "onhover": { "enable": true, "mode": "repulse" },
+          "onclick": { "enable": true, "mode": "push" }
         }
       }
     });
@@ -299,7 +261,13 @@
         setTimeout(type, 120);
       }
     })();
-  </script>
 
+    document.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', function () {
+        this.classList.add('clicked');
+        setTimeout(() => this.classList.remove('clicked'), 300);
+      });
+    });
+  </script>
 </body>
 </html>
