@@ -29,3 +29,5 @@ Hi! I'm **Justin Francia**, currently student at the **City College of Angeles (
 - Finals Lab Task 2:[Transform ER into Relational tables](https://tatinzzz.github.io/Final-Task-2/)
 - Finals Lab Task 3:[Table Manipulation](https://tatinzzz.github.io/Final-Task-3/)
 - Finals Lab Task 3.1:[Using MYSQL CLAUSE](https://tatinzzz.github.io/Final-Task-3.1/)
+- Finals Lab Task 5:  [Using SQL views and Stored Procedures and Stored Functions](https://github.com/tatinzzz/Final-Task-5)
+- Finals Lab Task 6: [](https://github.com/tatinzzz/Final-Task-6)
